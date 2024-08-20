@@ -1,5 +1,5 @@
 {
-  "name": "yuto-fac-hokkaido-astro-demo",
+  "name": "astro-client-visible-demo",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.14.3",
     "@astrojs/check": "^0.9.3",
+    "@astrojs/svelte": "^5.7.0",
+    "astro": "^4.14.3",
+    "svelte": "^4.2.18",
     "typescript": "^5.5.4"
   }
 }
